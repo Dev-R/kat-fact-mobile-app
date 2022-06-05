@@ -7,7 +7,7 @@
 
 ## Preview
 
-![Preview]([https://github.com/Dev-R/kat-fact-app/blob/master/assets/kat-fact-preview.png])
+![Preview]([[https://github.com/Dev-R/kat-fact-app/blob/master/assets/kat-fact-preview.png](https://raw.githubusercontent.com/Dev-R/kat-fact-app/master/assets/kat-fact-preview.png?token=GHSAT0AAAAAABVIBWYOBDXEWRVZRA2ZQGJIYU4OJ4Q)])
 - https://kat-fact.herokuapp.com/
 
 
