@@ -16,3 +16,4 @@
 - [Rapi UI](https://rapi-ui.kikiding.space/)
 - [Cat Emoticons Icon Pack](https://www.flaticon.com/packs/cat-emoticons)
 - [Cat Facts](https://catfact.ninja/)
+- [katFact](https://github.com/syfqpie/kat-fact)
