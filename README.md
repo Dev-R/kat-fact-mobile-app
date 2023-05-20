@@ -9,7 +9,6 @@
 <p align="center">
     <img src="https://github.com/Dev-R/kat-fact-app/blob/master/assets/kat-fact-preview.png" alt="drawing" height="800" width="400"/>
 </p>
-- https://kat-fact.herokuapp.com/
 
 ### Credits
 - [React native](https://github.com/facebook/react-native)
