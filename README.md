@@ -12,6 +12,7 @@ A random app generating random fun facts about cat by consuming facts from https
 <p align="center">
     <img src="https://github.com/Dev-R/kat-fact-app/blob/master/assets/kat-fact-demo-2.gif" alt="drawing" height="800" width="400"/>
 </p>
+
 ## Run Locally
 
 Clone the project
