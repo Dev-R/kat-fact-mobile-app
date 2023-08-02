@@ -5,10 +5,12 @@ A random app generating random fun facts about cat by consuming facts from https
     <img src="https://github.com/Dev-R/kat-fact-app/blob/master/assets/kat-fact-preview.png" alt="drawing" height="800" width="400"/>
 </p>
 
+### Get Facts
 <p align="center">
     <img src="https://github.com/Dev-R/kat-fact-app/blob/master/assets/kat-fact-demo-1.gif" alt="drawing" height="800" width="400"/>
 </p>
 
+### Dark Mode
 <p align="center">
     <img src="https://github.com/Dev-R/kat-fact-app/blob/master/assets/kat-fact-demo-2.gif" alt="drawing" height="800" width="400"/>
 </p>
